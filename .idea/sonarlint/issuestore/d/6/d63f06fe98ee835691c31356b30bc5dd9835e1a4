@@ -1,0 +1,13 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(Ïªİûÿÿÿÿ8±–»á/
+V	java:S125"<This block of commented-out lines of code should be removed.(™ûÎ¡ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¼”Ãúÿÿÿÿ
+J
+java:S1611%"/Remove the parentheses around the "e" parameter(Õ¹×Ëÿÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Õ¹×Ëÿÿÿÿÿ
+E
+java:S1611("/Remove the parentheses around the "e" parameter(“úÉÈ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(“úÉÈ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(‹¯Ã†ûÿÿÿÿ
+]
+java:S2184"BCast one of the operands of this addition operation to a "double".(¶³úÇùÿÿÿÿ
